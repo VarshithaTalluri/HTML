@@ -1,0 +1,47 @@
+<html>
+<tittle>Register to instagram</tittle>
+<body bgcolor=#FFA07A>
+<hr color="blue">
+<marquee scrollamount=12 direction="right"
+behaviour="alternate">
+<h1> ***WELCOME TO INSTAGRAM***</h1></marquee>
+<hr color="red">
+<center>
+<h1>
+Registration form<br>
+</h1>
+<h2>
+<form action="registration successfull.html">
+ NAME  :<input type=text name="t1"><br>
+ Email :<input type=text name="t2"><br>
+ mobile:<input type=text name="mobile"><br>
+ Gender:<input type=radio name="t3">male
+<input type=radio name="t3">female
+<br>
+ Age:<input type=text name="t4"><br>
+    Language:<input type="checkbox">english
+ <input type="checkbox">hindi
+ <input type="checkbox">telugu
+<br>
+   city:
+<select>
+<option>select</option>
+<option>hyderabad</option>
+<option>rajmundry<option>
+<option>vijayawada</option>
+<option>banglore</option>
+<option>pune</option>
+</select><br>
+ DOB:<input type=date><br>
+upload profilephoto<br>
+<textarea rows=7 cols=17></textarea><br>
+<img src="download.jpg"hight=10%
+width=10%><br>
+<input type=submit value="register">
+</form>
+</body>
+</html>
+
+
+
+
