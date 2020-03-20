@@ -1,0 +1,14 @@
+<html>
+<tittle>home page</tittle>
+<body bgcolor=#CD5C5C>
+<hr color="green">
+<marquee scrollamount=12 direction="right"
+behaviour="alternate">
+<h1> !!WELCOME!! </h1></marquee>
+<hr color="red">
+<center>already have an acount?
+<a href="login.html"><h1>sign in</h1></a>
+<a href="reg.html"><h1>registration</h1></a>
+</center>
+</body>
+</html>
